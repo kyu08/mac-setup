@@ -1,0 +1,19 @@
+---
+# Tap external Homebrew Cask repositories.
+homebrew_cask_repositories:
+  - homebrew/cask-versions
+
+homebrew_cask_packages:
+  - 1password
+  - alfred
+  - bettertouchtool
+  - docker
+  - google-chrome
+  - gyazo
+  - iterm2
+  - mapture
+  - notion
+  - skitch
+  - slack
+  - visual-studio-code
+  - zoom

@@ -1,0 +1,18 @@
+---
+- homebrew_tap:
+    name: homebrew/cask
+
+- homebrew:
+    name: cask
+    state: latest
+
+- homebrew_tap:
+    name: "{{item}}"
+  with_items: "{{homebrew_cask_repositories}}"
+
+- name: install/upgrade Homebrew Cask packages
+  homebrew_cask:
+    name: "{{item}}"
+    state: "present"
+    install_options: 'appdir=/Applications'
+  with_items: "{{homebrew_cask_packages}}"
