@@ -1,0 +1,13 @@
+[user]
+	email = shoooooo.bqt@gmail.com
+	name = ShoheiKamiya
+
+[alias]
+	cm = commit
+	cma = commit -am
+	br = branch
+	co = checkout
+	dff = diff --name-only
+	dfs = diff --cached
+	st = status
+	
