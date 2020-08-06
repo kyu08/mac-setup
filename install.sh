@@ -21,7 +21,7 @@ brew tap
 
 # Install brew packages
 for package in $BREW_PACKAGES; do
-  if brew list -l | grep -q "^$(basebane $package)"; then
+  if brew list -l | grep -q $package; then
     echo "Skip: brew install ${package}"
   else
     brew install $package
