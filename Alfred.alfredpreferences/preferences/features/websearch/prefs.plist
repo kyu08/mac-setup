@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>5C892B6B-D44B-400F-8BAE-B7194BC04EF5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>je</string>
+			<key>text</key>
+			<string>DeepL 日→英</string>
+			<key>url</key>
+			<string>https://www.deepl.com/translator#ja/en/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>81814805-47D4-40E9-85E2-EFA429CD63F9</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gle</string>
+			<key>text</key>
+			<string>Search if English for '{query}'</string>
+			<key>url</key>
+			<string>https://www.google.com/search?q={query}&amp;gl=us&amp;hl=en&amp;gws_rd=cr&amp;pws=0</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D98C2BC9-5021-4801-9D7D-FBFA1BF1A0DB</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ej</string>
+			<key>text</key>
+			<string>DeepL 英→日</string>
+			<key>url</key>
+			<string>https://www.deepl.com/translator#en/ja/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
