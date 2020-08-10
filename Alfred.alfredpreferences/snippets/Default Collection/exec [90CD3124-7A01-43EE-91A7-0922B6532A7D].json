@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bin\/dcdev exec app bundle exec rails ",
+    "uid" : "90CD3124-7A01-43EE-91A7-0922B6532A7D",
+    "name" : "exec",
+    "keyword" : "exec"
+  }
+}

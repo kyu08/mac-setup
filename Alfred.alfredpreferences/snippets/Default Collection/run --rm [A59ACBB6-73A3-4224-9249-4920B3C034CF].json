@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bin\/dcdev run --rm app bundle exec rails ",
+    "uid" : "A59ACBB6-73A3-4224-9249-4920B3C034CF",
+    "name" : "run --rm",
+    "keyword" : "run --rm"
+  }
+}
