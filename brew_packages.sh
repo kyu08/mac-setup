@@ -1,7 +1,6 @@
 #!/bin/bash
 
 BREW_PACKAGES="
-ansible
 ghq
 git
 hub
