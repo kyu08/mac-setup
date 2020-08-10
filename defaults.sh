@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # キーリピートを早くする
 defaults write NSGlobalDomain KeyRepeat -int 2
 
