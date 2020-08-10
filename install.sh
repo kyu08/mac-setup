@@ -13,12 +13,6 @@ if ! which -s brew; then
 fi
 
 . brew_packages.sh
-
-# Enable homebrew-cask
-# FIY: https://github.com/Homebrew/brew/blob/master/docs/Taps.md#the-brew-tap-command
-brew tap homebrew/cask
-brew tap
-
 # Install brew packages
 for package in $BREW_PACKAGES; do
   if brew list -l | grep -q $package; then
