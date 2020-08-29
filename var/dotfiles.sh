@@ -4,4 +4,5 @@ DOTFILES="
 .git-completion.bash
 .git-prompt.sh
 .gitconfig
+.zshrc
 "
