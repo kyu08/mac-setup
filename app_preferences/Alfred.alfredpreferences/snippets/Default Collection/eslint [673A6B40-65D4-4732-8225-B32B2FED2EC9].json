@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bin\/dcdev run --rm app yarn run eslint --fix --ext .vue,.js app\/javascript\/",
+    "uid" : "673A6B40-65D4-4732-8225-B32B2FED2EC9",
+    "name" : "eslint",
+    "keyword" : "eslint"
+  }
+}

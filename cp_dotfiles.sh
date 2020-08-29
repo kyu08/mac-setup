@@ -1,1 +1,1 @@
-cp -pR ./dotfiles/ ~/Desktop/
+cp -pR ./dotfiles/ ~/
