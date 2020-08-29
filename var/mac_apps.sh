@@ -1,7 +1,6 @@
 #!/bin/bash
 
 MAC_APPS="
-1password
 alfred
 bettertouchtool
 docker
@@ -10,8 +9,12 @@ gyazo
 iterm2
 mapture
 notion
-skitch
 slack
 visual-studio-code
 zoom
+webstorm
+microsoft-teams
+kindle
+karabiner-elements
+spotify
 "
