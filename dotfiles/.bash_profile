@@ -9,5 +9,3 @@ test -e ~/.iterm2_shell_integration.bash && source ~/.iterm2_shell_integration.b
 export PATH=~/.rbenv/bin:$PATH
 eval "$(rbenv init -)"
 
-# hub
-eval (hub alias -s)
