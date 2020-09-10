@@ -7,7 +7,6 @@ docker
 google-chrome
 gyazo
 iterm2
-mapture
 notion
 slack
 visual-studio-code
@@ -17,4 +16,6 @@ microsoft-teams
 kindle
 karabiner-elements
 spotify
+clipy
+hyperswitch
 "

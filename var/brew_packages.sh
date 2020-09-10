@@ -9,4 +9,5 @@ node
 peco
 wifi-password
 yarn
+terminal-notifier
 "
